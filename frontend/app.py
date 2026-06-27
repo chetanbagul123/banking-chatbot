@@ -8,7 +8,7 @@ import requests
 import uuid
 
 # ⚠️ Change this to your Render URL when deployed
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://banking-chatbot-c9fo.onrender.com"
 
 # Page config
 st.set_page_config(
