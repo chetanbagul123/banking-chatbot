@@ -1,0 +1,12 @@
+Q: How do I open a savings account?
+A: To open a savings account, visit any branch with your Aadhaar card, PAN card, and a passport-size photograph. Minimum deposit is Rs. 1000. You can also open an account online through our mobile app.
+
+Q: How do I reset my ATM PIN?
+A: You can reset your ATM PIN through: (1) Internet banking portal under Card Services, (2) Mobile banking app, (3) Visiting the nearest ATM and selecting PIN change, (4) Calling customer care at 1800-XXX-XXXX.
+
+Q: What is the minimum balance requirement?
+A: Savings account minimum balance is Rs. 1000 for regular accounts and Rs. 5000 for premium accounts. Zero balance accounts are available for students and senior citizens.
+
+Q: How do I check my account balance?
+A: Check balance via: (1) Mobile banking app, (2) Internet banking, (3) SMS banking - send BAL to 5XXXXX, (4) Missed call banking, (5) ATM, (6) Passbook update at branch.
+```

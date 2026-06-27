@@ -1,0 +1,18 @@
+KYC PROCESS
+
+Q: How do I complete my KYC?
+A: KYC can be completed through: (1) Video KYC on our mobile app - available 9am to 6pm, (2) Visiting a branch with original Aadhaar and PAN, (3) Uploading documents on internet banking portal.
+
+Q: Which documents are accepted for KYC?
+A: Identity proof: Aadhaar card, PAN card, Passport, Voter ID, Driving license. Address proof: Aadhaar, Utility bills (not older than 3 months), Bank statement, Rent agreement.
+
+FRAUD PREVENTION
+
+Q: What should I do if I suspect fraud on my account?
+A: Immediately: (1) Call our 24/7 fraud helpline 1800-XXX-YYYY, (2) Block your card through mobile app under Card Services, (3) Change your internet banking password, (4) File a complaint at nearest branch or on our app.
+
+Q: How do I identify phishing attempts?
+A: Our bank will NEVER ask for your PIN, OTP, or password via call, SMS, or email. Always check the website URL starts with https. Never click links in suspicious SMS or emails claiming to be from the bank.
+
+Q: How do I report an unauthorized transaction?
+A: Report unauthorized transactions within 3 working days for zero liability. Go to mobile app > Disputes > Raise Dispute, or call 1800-XXX-ZZZZ immediately.
